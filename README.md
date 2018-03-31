@@ -15,3 +15,5 @@ https://github.com/djadmin/awesome-bug-bounty
 https://github.com/jekil/awesome-hacking
 
 https://github.com/vitalysim/Awesome-Hacking-Resources
+
+https://github.com/EdOverflow/bugbounty-cheatsheet
