@@ -25,3 +25,21 @@ https://github.com/xtiankisutsa/awesome-mobile-CTF
 # Article Collections
 
 https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f
+
+# Bug Bounty Platform
+
+https://www.hackerone.com/
+
+https://www.bugcrowd.com/
+
+https://www.synack.com/
+
+https://cobalt.io/
+
+https://bugbounty.jp/
+
+https://zerocopter.com/
+
+https://bountyfactory.io/
+
+https://www.intigriti.com/
