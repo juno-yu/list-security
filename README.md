@@ -1,4 +1,4 @@
-# github repository
+# Github Repositories
 
 https://github.com/sbilly/awesome-security
 
@@ -22,6 +22,6 @@ https://github.com/apsdehal/awesome-ctf
 
 https://github.com/xtiankisutsa/awesome-mobile-CTF
 
-# Article
+# Article Collections
 
 https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f
