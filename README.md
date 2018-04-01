@@ -17,3 +17,5 @@ https://github.com/jekil/awesome-hacking
 https://github.com/vitalysim/Awesome-Hacking-Resources
 
 https://github.com/EdOverflow/bugbounty-cheatsheet
+
+https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f
