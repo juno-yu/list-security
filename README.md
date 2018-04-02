@@ -1,5 +1,9 @@
 # Github Repositories
 
+https://github.com/enaqx/awesome-pentest
+
+https://github.com/coreb1t/awesome-pentest-cheat-sheets
+
 https://github.com/sbilly/awesome-security
 
 https://github.com/onlurking/awesome-infosec
