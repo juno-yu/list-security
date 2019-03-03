@@ -26,6 +26,8 @@ https://github.com/apsdehal/awesome-ctf
 
 https://github.com/xtiankisutsa/awesome-mobile-CTF
 
+https://github.com/trimstray/the-book-of-secret-knowledge
+
 # Article Collection
 
 https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f
