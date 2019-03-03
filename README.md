@@ -82,8 +82,50 @@ https://github.com/frizb/Vanquish
 
 https://medium.com/ctf-writeups/bounty-write-up-htb-9b01c934dfd2
 
+https://0xdf.gitlab.io/2019/03/02/htb-access.html#backupmdb
+
+https://github.com/gentilkiwi/mimikatz
+
+https://github.com/HarmJ0y/pylnker
+
+https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E8%8E%B7%E5%8F%96Windows%E7%B3%BB%E7%BB%9F%E4%B8%8BDPAPI%E4%B8%AD%E7%9A%84MasterKey/
+
 # Payload
 
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
 https://github.com/foospidy/payloads
+
+# SSTI (Server-Side Template Injection)
+
+https://github.com/epinna/tplmap
+
+# WAF Evasion / Bypass
+
+https://paper.seebug.org/218/
+
+https://blog.51cto.com/jzking121/1853265
+
+http://www.myh0st.cn/index.php/archives/881/
+
+# Exercise platform
+
+https://www.reddit.com/r/oscp/comments/9273hq/pentesterlabpro_vs_virtualhackinglabs_vs/
+
+https://www.hackthebox.eu/
+
+https://www.vulnhub.com/
+
+https://lab.pentestit.ru/
+
+https://www.pentesterlab.com/
+
+https://www.root-me.org/?lang=en
+
+https://www.virtualhackinglabs.com/
+
+https://ctf365.com/
+
+http://overthewire.org/wargames/natas/
+
+http://www.10tiao.com/html/176/201612/2650219646/1.html
