@@ -32,6 +32,8 @@ https://github.com/trimstray/the-book-of-secret-knowledge
 
 https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f
 
+https://securit.ie/blog/?p=70
+
 # Writeup
 
 https://medium.com/ctf-writeups/tagged/hackthebox
@@ -55,6 +57,18 @@ https://zerocopter.com/
 https://bountyfactory.io/
 
 https://www.intigriti.com/
+
+https://yeswehack.com/
+
+https://firebounty.com/
+
+https://safehats.com/
+
+https://app.cobalt.io/
+
+https://firebounty.com/
+
+https://hackenproof.com/
 
 # CTF Writeup
 
@@ -129,3 +143,38 @@ https://ctf365.com/
 http://overthewire.org/wargames/natas/
 
 http://www.10tiao.com/html/176/201612/2650219646/1.html
+
+# LFI / RFI
+
+## PHP 
+https://highon.coffee/blog/lfi-cheat-sheet/
+
+https://lalajun.github.io/2018/03/19/WEB-LFI%E4%B8%8ERFI%E5%88%A9%E7%94%A8/
+
+https://xz.aliyun.com/t/1249
+
+https://promagic.cn/php-baohanliyongxiaoji-rfi-lfi.shtml
+
+https://www.slideshare.net/hackstuff/php-lfi-rfi-15079157
+
+# Reverse shell
+
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+
+# Recon
+
+https://lalajun.github.io/2018/09/26/Tools-nmap/
+
+# SMB
+
+https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+
+https://www.computerhope.com/unix/smbclien.htm
+
+# Overflow
+
+## Stack overflow 
+https://hack-big.tech/2019/02/04/ROP%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/
+
+### Stack smash
+https://www.anquanke.com/post/id/161142
